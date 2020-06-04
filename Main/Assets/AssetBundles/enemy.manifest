@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1619788971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6848dba315eaac8621a433a30394319
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ca6743e8395230391625225df335e84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13fc8a772674ca149a69a2da5c0aa8ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86b333e923d750046bbf150a07c9e021, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3341911ee2333bf4780dddad25377e55, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/EnemyBee.prefab
+- Assets/Prefab/Enemy.prefab
+Dependencies:
+- D:/unity/2020.02.27/Main/Assets/AssetBundles/bullet

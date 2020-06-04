@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 803755072
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bullet
+      Dependencies:
+        Dependency_0: enemy
+    Info_1:
+      Name: enemy
+      Dependencies:
+        Dependency_0: bullet
+    Info_2:
+      Name: cube
+      Dependencies: {}
+    Info_3:
+      Name: cube1
+      Dependencies: {}
